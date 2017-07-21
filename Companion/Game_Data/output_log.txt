@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R5 M330 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2041 MB
+    Driver:   15.201.1151.1010
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Manchester\Temp\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\Manchester\Temp\Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Manchester\Temp\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Manchester\Temp\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Manchester\Temp\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading G:\Manchester\Temp\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Manchester\Temp\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.482171 ms
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 498)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7d04 -> priority: 1 
