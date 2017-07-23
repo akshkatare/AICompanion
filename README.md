@@ -1,2 +1,3 @@
 # AICompanion
 This is a project made for the competition United by Hcl
+The Project is based on building a NPC Animal Companion system. The Prototype initially demonstrates the Companion system of only one animal , but most of the scripts are generalised and can be easily used for many animal companions when converted into scriptable objects. The scene demonstrates a prototype arena where the enemies are petrolling. The wolf will sneak past the guards and become invisible if they see it. If you get caught, The wolf will clone itself to distract each enemy, Thus buying you enough time to escape.
